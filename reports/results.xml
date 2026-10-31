@@ -1,0 +1,10 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="9.294939999999944">
+<testsuite name="web\user-registration-flow.spec.ts" timestamp="2026-10-31T05:12:44.464Z" hostname="chromium" tests="1" failures="0" skipped="0" time="6.107" errors="0">
+<testcase name="Customer registration flow @master @sanity @regression @web" classname="web\user-registration-flow.spec.ts" time="6.107">
+<system-out>
+<![CDATA[✅ Customer registration completed successfully.
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
